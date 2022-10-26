@@ -1,0 +1,7 @@
+https://lenguajehtml.com/html/introduccion/atributos-comunes-html/
+
+https://lenguajecss.com/css/introduccion/estructura-de-css/
+
+https://picocss.com/
+
+https://andybrewer.github.io/mvp/
