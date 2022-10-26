@@ -1,0 +1,11 @@
+
+https://devcenter.heroku.com/articles/getting-started-with-rails7
+
+https://dashboard.heroku.com/account/billing
+
+https://devcenter.heroku.com/articles/heroku-cli
+
+https://guides.rubyonrails.org/active_record_validations.html
+
+https://github.com/jorgitsss/Uso_comandos_git_desde_wsl_en_vscode/branches
+
