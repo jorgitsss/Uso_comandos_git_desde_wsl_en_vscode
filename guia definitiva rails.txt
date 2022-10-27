@@ -1,0 +1,86 @@
+Navegación por la consola de Linux
+#como saber en que carpeta estamos 
+>	Pwd
+
+# como listar la carpeta 
+> ls
+> ls -la     
+
+# comocreamos un directorio nuevo
+> mkdir NombreDelDirectorio
+
+# como elimino un directorio 
+> rv -R NombreDelDirectorio
+
+# como entro a un directorio 
+> cd NombreDelDirectorio
+
+# como abro visual estudio desde la carpeta actual
+> code .
+
+======================================================
+ruby and rails y database
+
+# como sabemos que version tenemos en ruby rails y postgresql
+
+> ruby -v
+> rails -v
+> psql --version
+> wsl --version
+
+=====================================================
+postgresql
+# como se si el servidor esta encendido
+# como entrar al servidor 
+# como creamos un usuario en postgres
+# cual es el usuario por defecto en postgres
+
+# como listo las bases de datos
+# como listo las tablas
+# como veo los usuarios o roles 
+
+# como creo una tabla
+# como agrego contenido a una tabla
+# como borro una tabla
+# como salgo de postgres
+====================================================
+
+ruby and rails
+# clonar un proyecto en rails
+# crear un proyecto nuevo en rails
+
+git hub 
+# que es la clave ssh SSH (o Secure SHell, en español: intérprete de órdenes seguro)
+git config --global color.ui true
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR@EMAIL.com"
+ssh-keygen -t rsa -b 4096 -C "YOUR@EMAIL.com"
+
+cat ~/.ssh/id_rsa.pub
+
+# confirmo que mi clave git este bien instalada 
+ssh -T git@github.com
+
+# clono repositorio github
+> git clone git@github.com:jorgitsss/Uso_comandos_git_desde_wsl_en_vscode.git 
+
+# entro al depositorio clonado 
+
+# creo proyecto nuevo en rails sin testing no especifico la base de datos
+> rails new proyectomio -T
+
+sqlite 
+
+# verifico con bundler el proyecto 
+> entro a la carpeta y ejecuto 
+> bundler 
+
+# entro a visual estudio y reviso configuracion y modelo vista controlador
+> code .
+ 
+# crear vista iniciar la base de datos y migrar
+> rails db:create 
+
+# levanto servidor rails en puerto 3000
+>rails server     hn9
+>rails s
